@@ -1,0 +1,5 @@
+# temp files
+._*
+
+# DS Store, log info for last command
+.DS_Store
